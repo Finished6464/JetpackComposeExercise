@@ -41,3 +41,7 @@ https://developer.android.com/codelabs/jetpack-compose-layouts
 ## Taskmanager
 https://developer.android.com/codelabs/basic-android-kotlin-compose-composables-practice-problems#2
 ![TaskManager](https://github.com/user-attachments/assets/0cc9b3cc-4e23-483a-b39b-47589837e5ab)
+
+## BasicStateCodelab
+https://developer.android.com/codelabs/jetpack-compose-state
+![BasicStateCodelab](https://github.com/user-attachments/assets/d8f753d3-e14e-4fca-8acf-43ee0b04e4f5)
